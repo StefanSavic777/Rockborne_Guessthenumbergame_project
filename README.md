@@ -94,35 +94,20 @@ This project demonstrates key Python concepts:
 - **Dictionaries** - Organizing difficulty settings
 - **Documentation** - Docstrings and comments explaining code
 
-## Future Improvements
-
-Possible enhancements to the game:
-
-- Save high scores to a file
-- Difficulty scaling based on previous performance
-- Leaderboard system
-- GUI using Tkinter or Pygame
-- Sound effects and music
-- Time-based challenges
-
 ## Author
 
 Stefan Savic
-
-## License
-
-This project is open source and available under the MIT License.
 
 ## Project Conclusion
 
 This game was created as part of a Python learning project. It fulfills the following requirements:
 
-- ✅ Flowchart of game logic
-- ✅ Well-organized functions with docstrings
-- ✅ Input validation for all user entries
-- ✅ Global counters for statistics
-- ✅ Clear code with comments and documentation
-- ✅ README file with complete instructions
+-  Psudocode of game logic
+-  Well-organized functions with docstrings
+-  Input validation for all user entries
+-  Global counters for statistics
+-  Clear code with comments and documentation
+-  README file with complete instructions
 
 ## Notes
 
